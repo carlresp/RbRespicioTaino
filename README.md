@@ -10,3 +10,9 @@ This is our project proposal for the 1st quarter of CS3. The website we have in 
 3. CPS test- A test to measure your mouse click speed per second. There is a huge box that you'll try to click as fast as you can.
 4. Reaction time test- a test to measure your reaction time in ms (milliseconds).
 5. Aim test-A game to test your mouse aim. Three circles will show  up in a 8x8 grid and when clicked, will move to a new position on the grid. The objective is to try to click the most circles as fast and accurate as possible.
+
+
+homepage: https://wireframe.cc/pro/pp/64e880255581518
+subpage 1: https://wireframe.cc/pro/pp/075ca2239581520
+subpage 2: https://wireframe.cc/pro/pp/c1327648a581523
+subpage 3: https://wireframe.cc/pro/pp/0f683f9ae581524 
